@@ -1,0 +1,12 @@
+# Ignore all .class files
+*.class
+
+# Ignore all .log files
+*.log
+
+# Ignore specific folders
+/bin/
+/target/
+
+# Ignore a specific file
+/path/to/specific-file.txt
